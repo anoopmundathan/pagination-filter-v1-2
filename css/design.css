@@ -95,10 +95,6 @@ body{
     border-bottom: none;
   }
 
-  .student-item:nth-of-type(n+11) {
-    display: none;
-  }
-
 .pagination{
   margin: 40px 0 0 0;
   text-align: center;
