@@ -26,5 +26,5 @@ Treehouse - Project2 - Pagination &amp; Content Filter
 
 - [x] If no matches are found, include a message in the HTML to tell the user there are no matches.
 
-# How to run?
+## How to run?
 Download the repository and open index.html in any browser.
